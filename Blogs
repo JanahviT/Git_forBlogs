@@ -6,3 +6,4 @@ git pull
 git push
 git fetch
 git remote -v
+git confif --global
